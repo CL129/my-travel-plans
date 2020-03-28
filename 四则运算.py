@@ -53,7 +53,7 @@ def szys():
 
     return result
 
-print('进行四则运算')
+print('下面将会依次出现10个运算式（每个运算式10分），请输入你的答案')
 
 m=0
 n=10
