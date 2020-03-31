@@ -74,5 +74,5 @@ while n>0:
             print('error.the answer is', result)
 
         n=n-1
-print('正确', m,'道题目','错误', 10-m,'道题目','得',m*10,'分')
-
+print('统计结果：','正确', m,'道题目,','错误', 10-m,'道题目。')
+print('统计得分：',m*10,'分。')
