@@ -1,2 +1,4 @@
-#Travel Destinations
-这是陈莉和吴宇森的一个简单的应用，用来记录我们想去旅行的目的地。
+队名：clwys
+成员： 陈莉 https://www.cnblogs.com/clwys/ 
+           吴宇森 https://www.cnblogs.com/wyscl/ 
+课题：四则运算 https://github.com/CL129/pp_project.git
